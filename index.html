@@ -2,77 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Website Animation | by UMXAIR</title>
-
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdnjs.cloudflrae.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UM - XAIR | Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        .customfont {
+            font-family: 'Montserrat', sans-serif;
+        }
+    </style>
 </head>
-<body>
-
-    <div class="loader">
-        <div class="loader-clip clip-top">
-            <div class="marquee">
-                <div class="marquee-container">
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                    R4T4 
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                </div>
-            </div>
-        </div>
-
-        <div class="loader-clip clip-bottom">
-            <div class="marquee">
-                <div class="marquee-container">
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                    R4T4 
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                </div>
-            </div>
-        </div>
-
-        <div class="clip-center">
-            <div class="marquee">
-                <div class="marquee-container">
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                    R4T4 
-                    <span>R4T4 </span>
-                    <span>R4T4 </span>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-    <div class="container">
-        <div class="nav">
-            <div class="logo">Brand</div>
-            <div class="nav-items">
-                <a href="#">Design</a>
-                <a href="#">Project</a>
-                <a href="#">Info</a>
-            </div>
-        </div>
-
-        <div class="footer">
-            <p>Play film</p>
-            <p>High Quality
-            <br>Made in Germany</p>
-            <p>R4T4 2024</p>
-
-        </div>
-
-    </div>
-
-    <script src="script.js"></script>
+<body class="max-w-8xl mx-auto flex flex-col h-screen justify-between p-8">
+    <header class="customfont bg-green-100 flex flex-col md:flex-row md:justify-between items-center w-full px-24 py-4 text-md text-black">
+        <div class="">
+            <a href="index.html" class="text-black hover:text-blue-500">UM - XAIR</a>
+        </div> 
+        <nav class="mt-2 md:mt-0">
+            <ul class="flex space-x-12 text-gray-700">
+                <li><a href="design.html" class="hover:text-black">DESIGN</a></li>
+                <li><a href="project.html" class="hover:text-black">PROJECT</a></li>
+                <li><a href="info.html" class="hover:text-black">INFO</a></li>
+            </ul>
+        </nav>
+    </header>    
+    <main class="bg-blue-100 w-full flex flex-col items-center justify-center flex-grow">
+        <h1 class="customfont lg:text-[15rem] text-8xl text-center">XAIR</h1>
+    </main>
+    <footer class="customfont bg-red-100 flex justify-between w-full px-24 py-4 text-md text-black">
+        <p>ALL RIGHTS RESERVED</p>
+        <p>XAIR 2024</p>
+    </footer>
 </body>
 </html>

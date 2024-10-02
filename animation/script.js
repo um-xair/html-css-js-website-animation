@@ -6,7 +6,7 @@ gsap.from(".clip-top, .clip-bottom", 2,{
 
 gsap.to(".marquee", 3.5, {
     delay: 0.75,
-    top: "50%",
+    top: "40%",
     ease: "power4.inOut"
 });
 

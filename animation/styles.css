@@ -12,6 +12,10 @@ body {
     margin: 0;
     padding: 0;
     background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .loader {
@@ -98,4 +102,40 @@ body {
 
 .nav-items a:not(:last-child) {
     padding-right: 4em;
+}
+
+@media (max-width: 768px) {
+    .container .nav {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1em;
+    }
+
+    .logo {
+        margin-bottom: 1em;
+        font-size: 24px;
+    }
+
+    .nav-items {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .nav-items a {
+        padding: 0.5em 0;
+    }
+
+    .container .footer {
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+        padding: 1em 4em;
+    }
+
+    .footer p {
+        margin-bottom: 0.5em;
+    }
+
 }
