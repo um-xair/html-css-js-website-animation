@@ -33,12 +33,22 @@ Inspiration from the [Codegrid YouTube channel](https://www.youtube.com/@codegri
 
 <br />
 
-## Connect with Me 🌐
-<a href="https://www.tiktok.com/@html.devlyss" target="_blank">
-<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok  height="50" width="210"" />
-</a>
+## Collaborate With Me
+If you're interested in collaborating or have any inquiries, feel free to reach out via email or WhatsApp!
+
+<div align="center">
 <a href="mailto:umairaxin@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="50" width="210" />
+  <img src="https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=FF0000" alt="email" height="50" />
 </a>
+<a href="https://wa.me/01162260866" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-%23000000.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=006400" alt="whatsapp" height="50" />
+</a>
+<a href="https://www.tiktok.com/@devxair" target="_blank">
+  <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=545454" alt="tiktok" height="50" />
+</a>
+  <a href="https://www.behance.net/devxair" target="_blank">
+  <img src="https://img.shields.io/badge/behance-%231E90FF.svg?&style=for-the-badge&logo=behance&logoColor=white&color=003ECB" alt="behance" height="50"/>
+</a>
+</div>
 
 
