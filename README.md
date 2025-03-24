@@ -34,7 +34,7 @@ Finally, the clip path of the loader clips (`clip-top` and `clip-bottom`) is ani
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="80" />
-  <img src="https://raw.githubusercontent.com/danilosetra/devicon/master/icons/gsap/gsap-original.svg" alt="GSAP" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="80" />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2F252USFwhUaVeFm664hWzFA-320-80.jpg" alt="GSAP" height="90" />
 </p>
 
